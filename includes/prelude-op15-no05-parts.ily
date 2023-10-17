@@ -293,7 +293,7 @@ preludeFiveNotes =
 
 preludeFiveMidi =
 \book {
-  \bookOutputName "prelude-op11-no05"
+  \bookOutputName "prelude-op15-no05"
   \score {
     \keepWithTag midi
     \articulate <<
