@@ -169,9 +169,9 @@ leftHandMiddle = \relative {
   
   \barNumberCheck 17
   e2.-\tieShapeB ~ |
-  e4. fs8. gs~ |
-  \beamPositionsB gs8 g fs f4. |
-  d4. e8. fs |
+  e4. fs8. g~ |
+  \beamPositionsB g8 g fs f4. |
+  d4. e8. f |
   e4. e8. ds |
   e2. |
   fs2. |
